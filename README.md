@@ -78,14 +78,6 @@ Data has been **processed and structured** for efficient reporting.
 
 ---
 
-## 🚀 How to Use the Dashboard?  
-1️⃣ **Download the Power BI (.pbix) file** from the repository.  
-2️⃣ Open it using **Power BI Desktop**.  
-3️⃣ Navigate through different pages to explore insights.  
-4️⃣ Use **filters and drill-throughs** to interact with data dynamically.  
-
----
-
 ## 🔗 Live Interactive Dashboard  
 📌 **[Click Here to Access the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM5YTZmZjAtYzcxZi00OTMwLTgwYWMtMmUxMmYxMzNmNjllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
